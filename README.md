@@ -1,6 +1,6 @@
 # Chao Sheng
 
-I study how robot manipulation policies learn from demonstrations and how their behavior changes when a camera input is missing.
+I fine-tune robot manipulation policies on demonstrations and test how public VLA policies respond to wrist-camera masking and first-frame freezing in simulation.
 
 ## π0.5 fine-tuning on LIBERO
 
